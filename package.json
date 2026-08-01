@@ -8,7 +8,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@xyflow/react": "12.8.5",
+    "@xyflow/react": "12.11.2",
     "express": "5.1.0",
     "react": "19.1.1",
     "react-dom": "19.1.1",
